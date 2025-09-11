@@ -1,12 +1,13 @@
-███████╗████████╗███████╗███████╗███████╗
-╚══███╔╝╚══██╔══╝██╔════╝██╔════╝██╔════╝
-  ███╔╝    ██║   █████╗  █████╗  █████╗ 
- ███╔╝     ██║   ██╔══╝  ██╔══╝  ██╔══╝ 
-███████╗   ██║   ███████╗██║     ██║ 
-╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝ 
+
+ _   _ _   _ ___ __  __ 
+| \ | | \ | |_ _|  \/  |
+|  \| |  \| || || |\/| |
+| |\  | |\  || || |  | |
+|_| \_|_| \_|___|_|  |_|
+       NVIM • zTeff
 
 
-##Mi configuración de Neovim
+## Mi configuración de Neovim
 
 Configuración personalizada de **Neovim** pensada para desarrollo en:
 
@@ -33,7 +34,7 @@ Configuración personalizada de **Neovim** pensada para desarrollo en:
 
 ---
 
-##Requisitos
+## Requisitos
 
 Debes instalar estas dependencias externas para que todo funcione:
 
